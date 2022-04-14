@@ -1,0 +1,16 @@
+
+"""
+A program that stores books Information
+Title, Authur
+Year, ISBN
+
+User can :
+View all records
+Search an entry
+add entry
+Update Entry
+Delete Entry
+Close
+
+"""
+
